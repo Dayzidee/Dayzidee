@@ -53,6 +53,8 @@ Focusing on performance, type-safety, and scalable data architecture.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dayzidee&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f2ea&icon_color=00f2ea" alt="Dunsimi's Stats" />
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dayzidee&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f2ea&icon_color=00f2ea" alt="Top Languages" />
 </p>
 
