@@ -1,69 +1,58 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f2ea&height=250&section=header&text=Dunsimi&fontSize=80&animation=fadeIn&fontAlignY=38&desc=10x%20Engineer%20%7C%20Full-Stack%20%26%20Cyber-Physical%20Systems&descAlignY=55&descAlign=50" />
-</div>
+# 🛡️ Dunsimi | 10x Full-Stack Engineer
+### Engineering High-Impact Solutions from Nigeria to the World
 
-<div align="center">
-
-### 🛡️ Engineering High-Impact Solutions from Nigeria to the World
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=33F7F2&center=true&vCenter=true&width=600&lines=10x+Full-Stack+Engineer;TypeScript+%2B+Python+Specialist;Building+Scalable+Financial+Logic;Embedded+Systems+Architect;Running+Pop!_OS+Linux)](https://git.io/stroked)
-
-</div>
-
-<br />
+---
 
 ### 💻 The Engineering Stack
 Focusing on performance, type-safety, and scalable data architecture.
 
-| **Web Stack** | **Backend & Logic** | **Database & Cloud** | **DevOps & OS** |
-|:---:|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,django" /> | <img src="https://skillicons.dev/icons?i=mongodb,postgres,sqlite,redis" /> | <img src="https://skillicons.dev/icons?i=linux,docker,git,vscode" /> |
+**Languages & Frameworks** ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<br />
+**Backend & Database** ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) 
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) 
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Tools & Infrastructure** ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
 
 ### 🚀 High-Impact Systems (Featured Projects)
 
 #### 💳 [DEspendable](https://github.com/Dayzidee/DEspendable) | *FinTech Logic & Personal Finance*
 *A sophisticated expense tracking and financial management system.*
-* **Logic:** Built to handle real-time data visualization of spending habits.
-* **Stack:** **TypeScript**, **Tailwind CSS**, and **Express**.
-* **Impact:** Solves the "leaky wallet" problem with high-performance state management.
+* **Logic:** Built to handle real-time data visualization of spending habits using **TypeScript** and **Express**.
+* **Impact:** Solves personal liquidity tracking with high-performance state management.
 
 #### 👗 [StyledByOtis](https://github.com/Dayzidee/styledbyotis) | *E-Commerce & Brand Architecture*
 *A high-end, aesthetic-driven fashion commerce platform.*
-* **Logic:** Focuses on seamless UX/UI and robust inventory filtering.
-* **Stack:** **React**, **Tailwind**, and **MongoDB**.
-* **Impact:** A production-ready storefront designed for high conversion and visual storytelling.
+* **Logic:** Focuses on seamless UX/UI and robust inventory filtering with **React** and **MongoDB**.
+* **Impact:** A production-ready storefront designed for high conversion.
 
 #### 🛠️ [Sam-B-Tech](https://github.com/Dayzidee/Sam-B-Tech) | *Service-as-a-Product (SaaP) Portal*
 *A specialized platform for technical service procurement.*
-* **Logic:** Streamlining the bridge between technical service providers and clients.
-* **Stack:** **Next.js**, **Express**, and **PostgreSQL**.
-* **Impact:** Digitizing traditional service workflows for the modern Nigerian market.
+* **Logic:** Digitizing service workflows using **Next.js** and **PostgreSQL**.
+* **Impact:** Streamlining the bridge between technical service providers and clients.
 
 #### 💧 [Tank Controller](https://github.com/Dayzidee/tank-controller) | *Cyber-Physical Systems / IoT*
 *Autonomous fluid management system using hardware-to-cloud telemetry.*
-* **Logic:** Automated water level regulation with real-time sensor feedback.
-* **Stack:** **C++ (ESP32)**, **Python**, and **Flask** for the monitoring dashboard.
+* **Logic:** Automated level regulation with **C++ (ESP32)** and a **Python/Flask** monitoring dashboard.
 * **Impact:** Reducing resource waste through intelligent hardware automation.
 
-<br />
-
-### 📊 System Performance Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dayzidee&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f2ea&icon_color=00f2ea" alt="Dunsimi's Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dayzidee&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f2ea&icon_color=00f2ea" alt="Top Languages" />
-</p>
-
-<br />
+---
 
 ### 🧠 The 10x Philosophy
 > *"Mastery isn't about memorizing syntax—it's about the ability to orchestrate complex logic across the entire stack. I build with the intent that every system should be secure, scalable, and solve a definitive problem."*
 
-<br />
+---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Dayzidee&style=flat-square&label=SYSTEM+ACCESSES&color=00f2ea" alt="Profile Views" />
